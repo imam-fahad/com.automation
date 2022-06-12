@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3826" started-at="2022-06-11T03:18:48Z" finished-at="2022-06-11T03:18:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3826" started-at="2022-06-11T03:18:48Z" finished-at="2022-06-11T03:18:52Z">
+      <class name="TestingTestNG.PracticeTestNG">
+        <test-method status="PASS" signature="presetup()[pri:0, instance:TestingTestNG.PracticeTestNG@2f54a33d]" name="presetup" is-config="true" duration-ms="1391" started-at="2022-06-11T03:18:48Z" finished-at="2022-06-11T03:18:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- presetup -->
+        <test-method status="PASS" signature="baselogin()[pri:0, instance:TestingTestNG.PracticeTestNG@2f54a33d]" name="baselogin" duration-ms="2334" started-at="2022-06-11T03:18:50Z" finished-at="2022-06-11T03:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baselogin -->
+        <test-method status="PASS" signature="closeout()[pri:0, instance:TestingTestNG.PracticeTestNG@2f54a33d]" name="closeout" is-config="true" duration-ms="77" started-at="2022-06-11T03:18:52Z" finished-at="2022-06-11T03:18:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeout -->
+      </class> <!-- TestingTestNG.PracticeTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
